@@ -645,3 +645,111 @@ Odseky 8 a 9 riešia vecné otázky – časovú pôsobnosť nových pravidiel o
 Napriek zhodnému nadpisu ide o samostatné prechodné ustanovenie oddelené od § 52zg, ktoré rieši ďalšie dve, obsahovo odlišné oblasti tej istej novely účinnej od 1. januára 2016. Odsek 1 sa týka predmetu dane u daňovníkov nezaložených alebo nezriadených na podnikanie (§ 12 ods. 2) a úpravy základu dane pri niektorých položkách (§ 17 ods. 3 a ods. 19) – tieto zmeny sa štandardne prvýkrát použijú na zdaňovacie obdobie začínajúce najskôr 1. januára 2016.
 
 Odsek 2 rieši rozšírenie oslobodenia príjmov štátu, obcí a vyšších územných celkov (respektíve nimi zriadených subjektov) podľa § 13 ods. 1 písm. a), pričom pre osobitnú kategóriu daňovníkov – ministerstvá a nimi zriadené rozpočtové a príspevkové organizácie – stanovuje výnimočne odložený začiatok použitia tohto oslobodenia, a to len vo vzťahu k príjmom (výnosom) z reklamy, až na obdobie po 31. marci 2017. Táto odchýlka pravdepodobne súvisela s potrebou dlhšej lehoty na prispôsobenie hospodárenia týchto subjektov novej úprave zdaňovania ich príjmov z reklamnej činnosti.
+
+---
+
+### § 52zi — Prechodné ustanovenia k úpravám účinným od 1. januára 2017
+
+> **§ 52zi**
+>
+> *(1) Ustanovenie § 15 písm. b) prvého bodu v znení účinnom od 1. januára 2017 sa prvýkrát použije za zdaňovacie obdobie, ktoré sa začína najskôr 1. januára 2017.*
+>
+> *(2) Ustanovenie § 17 ods. 5, 6 a 19 písm. b) v znení účinnom od 1. januára 2017 sa prvýkrát použije pri podaní daňového priznania po 31. decembri 2016.*
+>
+> *(3) Ustanovenie § 18a ods. 1 a 2 v znení účinnom od 1. januára 2017 sa prvýkrát použije pri spísaní zápisnice o začatí daňovej kontroly, doručení oznámenia o daňovej kontrole, doručení oznámenia o rozšírení daňovej kontroly na iné zdaňovacie obdobie po 31. decembri 2016.*
+>
+> *(4) Pri ukladaní pokuty sa postupuje podľa § 18a ods. 3 v znení účinnom od 1. januára 2017, ak k vyrubeniu dane alebo rozdielu dane došlo po 31. decembri 2016.*
+>
+> *(5) Ustanovenia § 3 ods. 1 písm. e) až g), § 3 ods. 2, § 5 ods. 1 písm. a), § 9 ods. 1 písm. n), § 12 ods. 7 písm. c), § 15 písm. a) tretieho a štvrtého bodu a písm. b) druhého bodu, § 16 ods. 1 písm. e) deviateho bodu, § 32a ods. 1 písm. a) štvrtého bodu, § 43 ods. 1 a 2, § 43 ods. 3 písm. r), § 43 ods. 5 písm. d), § 43 ods. 9 a § 51e v znení účinnom od 1. januára 2017 sa použijú na*
+>
+> *a) podiel na zisku (dividendu) vyplácaný zo zisku obchodnej spoločnosti alebo družstva určeného na rozdelenie osobám, ktoré sa podieľajú na ich základnom imaní, alebo členom štatutárneho orgánu alebo členom dozorného orgánu tejto obchodnej spoločnosti alebo družstva, podiel na výsledku podnikania vyplácaný tichému spoločníkovi, ak nejde o plnenia uvedené v § 3 ods. 1 písm. f), a podiel člena pozemkového spoločenstva s právnou subjektivitou na zisku a na majetku určenom na rozdelenie medzi členov pozemkového spoločenstva s právnou subjektivitou vykázaných za zdaňovacie obdobie začínajúce najskôr 1. januára 2017 a podiel člena pozemkového spoločenstva s právnou subjektivitou na zisku a na majetku určenom na rozdelenie medzi členov pozemkového spoločenstva s právnou subjektivitou [§ 12 ods. 7 písm. c)] vykázaný za zdaňovacie obdobia do 31. decembra 2016 a vyplácaný po 31. decembri 2016,*
+>
+> *b) podiel na zisku (dividendu) vyplácaný obchodnou spoločnosťou alebo družstvom zamestnancovi bez účasti na základnom imaní tejto spoločnosti alebo družstva vykázaný za zdaňovacie obdobie začínajúce najskôr 1. januára 2017 a vykázaný za zdaňovacie obdobia do 31. decembra 2003 vyplácaný po 31. decembri 2016,*
+>
+> *c) podiel na likvidačnom zostatku obchodnej spoločnosti alebo družstva, ak obchodná spoločnosť alebo družstvo vstúpi do likvidácie najskôr 1. januára 2017 alebo ak súd rozhodol o zrušení spoločnosti podľa osobitného predpisu¹³⁶ᵇᶠ) najskôr 1. januára 2017,*
+>
+> *d) vyrovnací podiel, ktorého výška sa určila na základe riadnej individuálnej účtovnej závierky za účtovné obdobie začínajúce najskôr 1. januára 2017.*
+>
+> *(6) Ak podiel na zisku (dividenda) vykázaný za zdaňovacie obdobia do 31. decembra 2003 plynie v zdaňovacom období začínajúcom najskôr od 1. januára 2017 zo zdrojov na území Slovenskej republiky daňovníkovi podľa*
+>
+> *a) § 2 písm. d) prvého bodu, je príjmom zdaňovaným daňou vyberanou zrážkou (§ 43) pri použití sadzby dane vo výške 7 %, pričom postup podľa § 52 ods. 24 sa neuplatní,*
+>
+> *b) § 2 písm. d) druhého bodu, je zdaňovaný podľa § 52 ods. 24.*
+>
+> *(7) Ak podiel na zisku (dividenda) vykázaný za zdaňovacie obdobia do 31. decembra 2003 plynie od 1. januára 2017 zo zdrojov na území Slovenskej republiky daňovníkovi podľa*
+>
+> *a) § 2 písm. e) prvého a druhého bodu, je príjmom zdaňovaným daňou vyberanou zrážkou (§ 43) pri použití sadzby dane vo výške 7 %, pričom postup podľa § 52 ods. 24 sa neuplatní,*
+>
+> *b) § 2 písm. e) tretieho bodu, je zdaňovaný podľa § 52 ods. 24, pričom ak dôjde k zdaneniu daňou vyberanou zrážkou, použije sa sadzba dane vo výške 19 %.*
+>
+> *(8) Ak podiel na zisku (dividenda) vykázaný za zdaňovacie obdobia do 31. decembra 2003 plynie v zdaňovacom období začínajúcom najskôr od 1. januára 2017 zo zdrojov v zahraničí daňovníkovi podľa*
+>
+> *a) § 2 písm. d) prvého bodu, je príjmom zahrňovaným do osobitného základu dane podľa § 51e pri použití sadzby dane podľa § 15 písm. a) tretieho bodu, pričom postup podľa § 52 ods. 24 sa neuplatní,*
+>
+> *b) § 2 písm. d) druhého bodu, je zdaňovaný podľa § 52 ods. 24.*
+>
+> *(9) Pri určení základu dane podľa § 43 ods. 5 písm. d) a § 51e ods. 2 a 3 v znení účinnom od 1. januára 2017 sa za hodnotu splateného vkladu obstaraného do 31. decembra 2015 považuje hodnota splateného vkladu ustanovená podľa predpisu účinného do 31. decembra 2015 a posudzovaná za každý vyrovnací podiel a podiel na likvidačnom zostatku jednotlivo. Ak je hodnota splateného vkladu vyššia ako vyrovnací podiel alebo podiel na likvidačnom zostatku, na rozdiel sa neprihliada.*
+
+**Výklad:**
+
+Ustanovenie § 52zi je kľúčovým prechodným ustanovením k obnoveniu zdaňovania podielov na zisku (dividend) od 1. januára 2017, ktoré nastalo po období (2004 – 2016), počas ktorého boli dividendy vyplácané zo zisku vykázaného od roku 2004 od dane oslobodené. Odseky 1 až 4 riešia časovo menej kontroverzné otázky – zdaňovanie osobitného základu dane z odplaty za predaj kryptomeny [§ 15 písm. b)], úpravu základu dane pri transferovom oceňovaní (§ 17), ako aj procesnú novinku – tzv. „daňovú Kobru" (oznamovanie začatia a rozšírenia daňovej kontroly podľa § 18a) vrátane sankcie za jej zneužívajúce predlžovanie.
+
+Jadrom ustanovenia je odsek 5, ktorý taxatívne vymedzuje, na aké druhy príjmov (dividendy vyplácané spoločníkom, tichým spoločníkom, členom pozemkového spoločenstva, zamestnancom bez účasti na základnom imaní, podiely na likvidačnom zostatku a vyrovnacie podiely) sa vzťahuje nová úprava ich zdaňovania účinná od 1. januára 2017 – rozhodujúcim kritériom je spravidla zdaňovacie obdobie, za ktoré bol zisk vykázaný (najskôr od 1. januára 2017), prípadne okamih vstupu do likvidácie alebo zostavenia účtovnej závierky.
+
+Odseky 6 až 8 riešia osobitnú, historicky citlivú kategóriu – dividendy vykázané ešte za zdaňovacie obdobia do 31. decembra 2003 (teda z čias pred predchádzajúcim zrušením zdanenia dividend v roku 2004), ktoré plynú daňovníkovi až po 1. januári 2017. Zákon tu rozlišuje podľa typu daňovníka (fyzická alebo právnická osoba, rezident alebo nerezident podľa § 2 písm. d) a e)) a podľa zdroja príjmu (tuzemský alebo zahraničný), pričom pri niektorých kategóriách stanovuje osobitnú zrážkovú sadzbu 7 %, resp. pri iných odkazuje na starší postup podľa § 52 ods. 24 so sadzbou 19 %. Odsek 9 napokon rieši metodiku určenia hodnoty splateného vkladu pre výpočet základu dane pri vyrovnacom podiele a podiele na likvidačnom zostatku pri vkladoch obstaraných do 31. decembra 2015, vrátane pravidla, že ak je hodnota vkladu vyššia než samotný vyrovnací podiel alebo likvidačný zostatok, na tento rozdiel (teda na stratu) sa neprihliada.
+
+---
+
+### § 52zj — Prechodné ustanovenie k úpravám účinným od 1. februára 2017
+
+> **§ 52zj**
+>
+> *Ustanovenia § 17 ods. 39 a § 25 ods. 3 v znení účinnom od 1. februára 2017 sa použijú pri motorovom vozidle evidovanom v evidencii vozidiel v Slovenskej republike po 31. januári 2017.*
+
+**Výklad:**
+
+Krátke prechodné ustanovenie sa týka úpravy základu dane pri osobných automobiloch zaradených do vyššej vstupnej ceny (limitácia odpisov a nájomného pri luxusných vozidlách podľa § 17 ods. 39) a nadväzujúcej úpravy vstupnej ceny pri ich vyradení (§ 25 ods. 3). Nová úprava sa použije len na vozidlá evidované v evidencii vozidiel v Slovenskej republike až po 31. januári 2017 – vozidlá evidované do tohto dátumu sa naďalej posudzujú podľa predchádzajúcich pravidiel, čím sa chráni legitímne očakávanie daňovníkov, ktorí vozidlo obstarali a zaevidovali ešte pred touto zmenou.
+
+---
+
+### § 52zk — Prechodné ustanovenie k úpravám účinným od 1. januára 2018
+
+> **§ 52zk**
+>
+> *Ustanovenie § 46b v znení účinnom do 31. decembra 2017 sa naposledy uplatní za zdaňovacie obdobie končiace 31. decembra 2017, a ak je zdaňovacím obdobím hospodársky rok, za zdaňovacie obdobie končiace v priebehu kalendárneho roka 2018. Ak daňovník zaplatil za zdaňovacie obdobia končiace v rokoch 2015 až 2017 a pri zdaňovacom období, ktorým je hospodársky rok, končiace v rokoch 2015 až 2018, daňovú licenciu podľa § 46b v znení účinnom do 31. decembra 2017, nárok podľa § 46b ods. 5 v znení účinnom do 31. decembra 2017 na zápočet kladného rozdielu medzi daňovou licenciou a daňou vypočítanou v daňovom priznaní sa uplatňuje aj po 31. decembri 2017 v súlade s § 46b ods. 5 v znení účinnom do 31. decembra 2017.*
+
+**Výklad:**
+
+Ustanovenie § 52zk upravuje dozvuky zrušenia daňovej licencie (minimálnej dane právnických osôb podľa § 46b), ktorá bola zavedená novelou účinnou od 1. januára 2014 (pozri komentár k § 52za) a od 1. januára 2018 sa zrušila. Prvá veta určuje, dokedy sa má daňová licencia naposledy platiť – za zdaňovacie obdobie kalendárneho roka 2017, respektíve pri hospodárskom roku za zdaňovacie obdobie končiace v priebehu roka 2018.
+
+Druhá veta rieši osud nároku na zápočet kladného rozdielu medzi zaplatenou daňovou licenciou a daňou vypočítanou v daňovom priznaní (mechanizmus umožňujúci v nasledujúcich obdobiach „vrátiť" si časť zaplatenej licencie formou zápočtu, ak bola skutočná daňová povinnosť vyššia než licencia) – tento nárok, vzniknutý za zdaňovacie obdobia rokov 2015 až 2017 (resp. 2015 až 2018 pri hospodárskom roku), zostáva zachovaný a uplatňuje sa aj po zrušení samotnej daňovej licencie, a to podľa pôvodných pravidiel § 46b ods. 5 v znení účinnom do 31. decembra 2017. Ide teda o typický príklad zachovania nadobudnutého práva aj po zrušení právneho inštitútu, z ktorého toto právo vzniklo.
+
+---
+
+### § 52zl — Prechodné ustanovenie k úpravám účinným od 1. januára 2018
+
+> **§ 52zl**
+>
+> *Ustanovenie § 3 ods. 1 písm. e) v znení účinnom od 1. januára 2018 sa použije na príjem plynúci zo zníženia základného imania obchodnej spoločnosti alebo družstva v časti, v akej bolo predtým zvýšené zo zisku po zdanení vykázaného za zdaňovacie obdobia, za ktoré vykázaný podiel na zisku (dividenda) bol predmetom dane.*
+
+**Výklad:**
+
+Toto ustanovenie dopĺňa komplex pravidiel zdaňovania podielov na zisku po obnovení zdanenia dividend od roku 2017 (pozri § 52zi) o osobitný prípad – príjem plynúci daňovníkovi zo zníženia základného imania obchodnej spoločnosti alebo družstva. Nová úprava § 3 ods. 1 písm. e) sa použije len na tú časť takéhoto príjmu, ktorá zodpovedá predchádzajúcemu zvýšeniu základného imania zo zisku po zdanení vykázaného za zdaňovacie obdobia, v ktorých bol zodpovedajúci podiel na zisku (dividenda) predmetom dane.
+
+Ide teda o pravidlo brániace dvojitému zdaneniu (respektíve naopak nezdaneniu) toho istého ekonomického zisku – ak bol zisk, z ktorého sa neskôr zvýšilo základné imanie, už raz zdanený ako dividenda (alebo mal byť zdanený podľa vtedy platnej úpravy), potom jeho následné vrátenie spoločníkovi formou zníženia základného imania podlieha zdaneniu podľa novej úpravy len v zodpovedajúcom rozsahu.
+
+---
+
+### § 52zm — Prechodné ustanovenia k úpravám účinným od 1. januára 2018
+
+> **§ 52zm**
+>
+> *(1) Ustanovenia § 9 ods. 2 písm. n), § 32 ods. 10, § 33a, § 37 ods. 5 a 6, § 38 ods. 4, 5 a 7, § 39 ods. 6, 9 písm. a) a b), ods. 11, 14 a 15, § 40 ods. 9 až 12, § 46a, § 47 ods. 1 a § 50 ods. 1 písm. a) v znení účinnom od 1. januára 2018 sa prvýkrát použijú na zmluvy o úvere na bývanie⁵⁷ᵃ) uzatvorené po 31. decembri 2017; ak bol daňovníkovi poskytnutý hypotekárny úver na základe zmluvy o hypotekárnom úvere uzatvorenej pred 1. januárom 2018, na ktorý sa uplatňuje štátny príspevok alebo štátny príspevok pre mladých podľa osobitného predpisu,¹³¹ᵃ) nárok na daňový bonus na zaplatené úroky mu prvýkrát vzniká až v kalendárnom mesiaci nasledujúcom po kalendárnom mesiaci, za ktorý mu poslednýkrát vznikol nárok na štátny príspevok alebo štátny príspevok pre mladých.*
+>
+> *(2) Finančné riaditeľstvo prvýkrát poskytne Ministerstvu dopravy a výstavby Slovenskej republiky na účely plnenia úloh v oblasti štátnej bytovej politiky súhrnné údaje o počte daňových subjektov, ktoré si uplatnili daňový bonus na zaplatené úroky podľa § 33a vrátane celkovej výšky uplatneného daňového bonusu na zaplatené úroky za zdaňovacie obdobie, ktoré začalo 1. januára 2018.*
+
+**Výklad:**
+
+Posledné ustanovenie tejto kapitoly upravuje prechod k zavedeniu nového daňového bonusu na zaplatené úroky z úverov na bývanie (§ 33a) od 1. januára 2018, ktorý nahradil dovtedajší systém štátnych príspevkov (respektíve štátnych príspevkov pre mladých) k hypotekárnym úverom poskytovaným bankami. Odsek 1 stanovuje, že celý súbor súvisiacich ustanovení (oslobodenie, podmienky preukazovania, súčinnosť zamestnávateľa a správcu dane pri ročnom zúčtovaní a vyplácaní bonusu) sa vzťahuje len na zmluvy o úvere na bývanie uzatvorené až po 31. decembri 2017.
+
+Druhá veta odseku 1 rieši dôležitú nadväznosť pre daňovníkov, ktorí čerpali starší hypotekárny úver so štátnym príspevkom (alebo štátnym príspevkom pre mladých) uzatvorený ešte pred rokom 2018 – týmto daňovníkom vzniká nárok na nový daňový bonus na zaplatené úroky až od kalendárneho mesiaca nasledujúceho po poslednom mesiaci, za ktorý im ešte patril starý štátny príspevok, čím sa zabraňuje súbežnému čerpaniu oboch foriem štátnej podpory bývania. Odsek 2 dopĺňa administratívnu povinnosť Finančného riaditeľstva SR poskytovať Ministerstvu dopravy a výstavby súhrnné štatistické údaje o využívaní tohto nového bonusu, prvýkrát za zdaňovacie obdobie začaté 1. januára 2018 – ide o nástroj umožňujúci štátu vyhodnocovať účinnosť tejto formy podpory bytovej politiky.
